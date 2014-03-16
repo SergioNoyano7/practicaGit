@@ -1,15 +1,14 @@
 /*
  * To change this template, choose Tools | Templates
- * and open the template in the editor.
  */
 package prgitejemplo;
 
 /**
  *
- * @author bertoa
+ * @author Sergio
  */
 public class GitAux {
-    
+    /* Metodo para el alumno 1 */
     public void metodoAlumno1(){
         System.out.println("metodo 1");
     }
