@@ -1,0 +1,1 @@
+Este es un fichero que hay que leerse para entender la práctica
